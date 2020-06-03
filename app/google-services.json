@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1090132517822",
+    "firebase_url": "https://autovermitung-9c10c.firebaseio.com",
+    "project_id": "autovermitung-9c10c",
+    "storage_bucket": "autovermitung-9c10c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090132517822:android:eae064e2abfb3592b20fef",
+        "android_client_info": {
+          "package_name": "com.example.autovermitung"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090132517822-7thevun3j4qaepkgsegg024s6fn9esdo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.autovermitung",
+            "certificate_hash": "4718f444536cda9857eea90781ae1135b97f4ac1"
+          }
+        },
+        {
+          "client_id": "1090132517822-0p9d3of6uersdjad6qj8rci882p81o90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXI6DSau3433eGHqB9LhTrBz_P2i3a_wQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090132517822-0p9d3of6uersdjad6qj8rci882p81o90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
